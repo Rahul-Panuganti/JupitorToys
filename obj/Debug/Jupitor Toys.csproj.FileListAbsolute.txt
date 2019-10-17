@@ -1,0 +1,22 @@
+C:\Users\Satya\source\repos\Jupitor Toys\obj\Debug\Jupitor Toys.csprojAssemblyReference.cache
+C:\Users\Satya\source\repos\Jupitor Toys\obj\Debug\Jupitor Toys.csproj.CoreCompileInputs.cache
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\nunit.engine.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\nunit.engine.api.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\Jupitor Toys.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\Jupitor Toys.pdb
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\nunit.framework.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\WebDriver.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\nunit.framework.pdb
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\nunit.framework.xml
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\WebDriver.xml
+C:\Users\Satya\source\repos\Jupitor Toys\obj\Debug\Jupitor Toys.csproj.CopyComplete
+C:\Users\Satya\source\repos\Jupitor Toys\obj\Debug\Jupitor Toys.dll
+C:\Users\Satya\source\repos\Jupitor Toys\obj\Debug\Jupitor Toys.pdb
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\log4net.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\NLog.dll
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\log4net.xml
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\NLog.xml
+C:\Users\Satya\source\repos\Jupitor Toys\bin\Debug\Jupitor Toys.dll.config
